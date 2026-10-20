@@ -1,6 +1,6 @@
-#**Mattia Antonio Mirabito**
+#Mattia Antonio Mirabito
 
-##**Chi sono?**
+##Chi sono?
 
 Sono uno studente dell'Istituto capellini sauro di La Spezia, frequento il corso di informatica e telecomunicazioni, ho avuto esperienze lavorative nel settore della ristorazione in due diverse stagioni, e come tutor in un campus estivo.
 
