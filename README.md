@@ -14,3 +14,8 @@ Sono uno studente dell'Istituto capellini sauro di La Spezia, frequento il corso
 - Approfondire le mie conoscenze informatiche generali
 - Utilizzare nuovi strumenti informatici
 - Capire come funziona un azienda dall'interno
+
+**Citazione che mi piace:**
+- L'amicizia è una singola anima che vive in due corpi. *Aristotele*
+
+
