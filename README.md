@@ -1,16 +1,16 @@
-## Hi there 👋
+#**Mattia Antonio Mirabito**
 
-<!--
-**mattiamirabito/mattiamirabito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##**Chi sono?**
 
-Here are some ideas to get you started:
+Sono uno studente dell'Istituto capellini sauro di La Spezia, frequento il corso di informatica e telecomunicazioni, ho avuto esperienze lavorative nel settore della ristorazione in due diverse stagioni, e come tutor in un campus estivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cose che mi piacciono:**
+- Musica
+- Sport
+- Videogiochi
+- Uscire con gli amici
+
+**Cose che voglio imparare in questo percorso di 2 settimane:**
+- Approfondire le mie conoscenze informatiche generali
+- Utilizzare nuovi strumenti informatici
+- Capire come funziona un azienda dall'interno
